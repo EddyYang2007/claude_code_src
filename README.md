@@ -7,13 +7,6 @@
   <img src="https://img.shields.io/badge/UI-Ink%20%2F%20React-orange.svg" alt="UI">
 </p>
 
----
-
-## 🌟 强力推荐：DataEyesAI - 你的全能 AI 助手
-
-> **想要像 Claude Code 一样高效，却苦于没有稳定的 API 接入？**
-
-**[DataEyesAI](https://dataeyes.ai/?promoter_code=4qx9suz3)** 是为你量身打造的一站式 AI 聚合平台！
 
 
 > [!IMPORTANT]
